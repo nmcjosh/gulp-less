@@ -1,5 +1,5 @@
 {
-  "name": "nmc-gulp-less",
+  "name": "gulp-less",
   "version": "1.0.0",
   "description": "gulp-less, forked for NMC",
   "main": "index.js",
