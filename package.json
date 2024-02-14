@@ -1,14 +1,14 @@
 {
-  "name": "gulp-less",
-  "version": "5.0.0",
-  "description": "Less for Gulp",
+  "name": "nmc-gulp-less",
+  "version": "1.0.0",
+  "description": "gulp-less, forked for NMC",
   "main": "index.js",
   "scripts": {
     "test": "jshint index.js && node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gulp-community/gulp-less.git"
+    "url": "git://github.com/nmcjosh/gulp-less.git"
   },
   "engines": {
     "node": ">=6"
